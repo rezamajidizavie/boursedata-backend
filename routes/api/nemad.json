@@ -1,0 +1,2488 @@
+{
+    "RECORDS": [
+        {
+            "persian": "بالبر",
+            "nemad": "BEALBOR"
+        },
+        {
+            "persian": "سفارس",
+            "nemad": "CEFARS"
+        },
+        {
+            "persian": "ساروم",
+            "nemad": "CEOROUM"
+        },
+        {
+            "persian": "ستران",
+            "nemad": "CETRAN"
+        },
+        {
+            "persian": "دعبید",
+            "nemad": "DEABID"
+        },
+        {
+            "persian": "دابور",
+            "nemad": "DEABOR"
+        },
+        {
+            "persian": "دجابر",
+            "nemad": "DEJABER"
+        },
+        {
+            "persian": "دلر",
+            "nemad": "DELER"
+        },
+        {
+            "persian": "داسوه",
+            "nemad": "DEOSVEH"
+        },
+        {
+            "persian": "دپارس",
+            "nemad": "DEPARS"
+        },
+        {
+            "persian": "درازک",
+            "nemad": "DERAZAK"
+        },
+        {
+            "persian": "دسینا",
+            "nemad": "DESINA"
+        },
+        {
+            "persian": "فاما",
+            "nemad": "FAMA"
+        },
+        {
+            "persian": "فپنتا",
+            "nemad": "FEPANTA"
+        },
+        {
+            "persian": "فسرب",
+            "nemad": "FESORB"
+        },
+        {
+            "persian": "فلامی",
+            "nemad": "FLAMI"
+        },
+        {
+            "persian": "غبشهر",
+            "nemad": "GHEBESHAHR"
+        },
+        {
+            "persian": "غمارگ",
+            "nemad": "GHEMARG"
+        },
+        {
+            "persian": "غپینو",
+            "nemad": "GHEPINO"
+        },
+        {
+            "persian": "قصفها",
+            "nemad": "GHESFAHA"
+        },
+        {
+            "persian": "غشهد",
+            "nemad": "GHESHAHD"
+        },
+        {
+            "persian": "کگاز",
+            "nemad": "KEGAZ"
+        },
+        {
+            "persian": "کهمدا",
+            "nemad": "KEHAMEDA"
+        },
+        {
+            "persian": "کاصفا",
+            "nemad": "KEISFA"
+        },
+        {
+            "persian": "خودرو",
+            "nemad": "KHODRO"
+        },
+        {
+            "persian": "لابسا",
+            "nemad": "LEABSA"
+        },
+        {
+            "persian": "لسرما",
+            "nemad": "LESARMA"
+        },
+        {
+            "persian": "شکف",
+            "nemad": "SHKAF"
+        },
+        {
+            "persian": "شکربن",
+            "nemad": "SHKARBON"
+        },
+        {
+            "persian": "شپترو",
+            "nemad": "SHPETRO"
+        },
+        {
+            "persian": "وبانک",
+            "nemad": "VABANK"
+        },
+        {
+            "persian": "وبشهر",
+            "nemad": "VABESHAHR"
+        },
+        {
+            "persian": "وغدیر",
+            "nemad": "VAGHADIR"
+        },
+        {
+            "persian": "والبر",
+            "nemad": "VALBER"
+        },
+        {
+            "persian": "وپترو",
+            "nemad": "VAPETRO"
+        },
+        {
+            "persian": "ورنا",
+            "nemad": "VARENA"
+        },
+        {
+            "persian": "وساخت",
+            "nemad": "VASAKHT"
+        },
+        {
+            "persian": "وصنعت",
+            "nemad": "VASANAT"
+        },
+        {
+            "persian": "بموتو",
+            "nemad": "BEMOTO"
+        },
+        {
+            "persian": "سشرق",
+            "nemad": "CESHARGH"
+        },
+        {
+            "persian": "چکارن",
+            "nemad": "CHEKAREN"
+        },
+        {
+            "persian": "دکیمی",
+            "nemad": "DEKIMI"
+        },
+        {
+            "persian": "دکوثر",
+            "nemad": "DEKOSAR"
+        },
+        {
+            "persian": "فلوله",
+            "nemad": "FELOLEH"
+        },
+        {
+            "persian": "غگل",
+            "nemad": "GHEGOL"
+        },
+        {
+            "persian": "قنیشا",
+            "nemad": "GHENISHA"
+        },
+        {
+            "persian": "غپاک",
+            "nemad": "GHEPAK"
+        },
+        {
+            "persian": "قشرین",
+            "nemad": "GHESHERIN"
+        },
+        {
+            "persian": "کماسه",
+            "nemad": "KEMASEH"
+        },
+        {
+            "persian": "کپشیر",
+            "nemad": "KEPSHIR"
+        },
+        {
+            "persian": "کساوه",
+            "nemad": "KESAVEH"
+        },
+        {
+            "persian": "خلنت",
+            "nemad": "KHELENT"
+        },
+        {
+            "persian": "لپارس",
+            "nemad": "LEPARS"
+        },
+        {
+            "persian": "پدرخش",
+            "nemad": "PEDERAKHSH"
+        },
+        {
+            "persian": "شپاکسا",
+            "nemad": "SHPAKSA"
+        },
+        {
+            "persian": "شصفها",
+            "nemad": "SHSFAHA"
+        },
+        {
+            "persian": "تپمپی",
+            "nemad": "TEPUMPI"
+        },
+        {
+            "persian": "وملت",
+            "nemad": "VAMELAT"
+        },
+        {
+            "persian": "سکرما",
+            "nemad": "CEKERMA"
+        },
+        {
+            "persian": "ددام",
+            "nemad": "DEDAM"
+        },
+        {
+            "persian": "دفرا",
+            "nemad": "DEFRA"
+        },
+        {
+            "persian": "کچینی",
+            "nemad": "KECHINI"
+        },
+        {
+            "persian": "خکار",
+            "nemad": "KHKAR"
+        },
+        {
+            "persian": "نبروج",
+            "nemad": "NEBORUJ"
+        },
+        {
+            "persian": "شاراک",
+            "nemad": "SHARAK"
+        },
+        {
+            "persian": "شپمچا",
+            "nemad": "SHPAMCHA"
+        },
+        {
+            "persian": "وسپه",
+            "nemad": "VASEPAH"
+        },
+        {
+            "persian": "سشمال",
+            "nemad": "CESHOMAL"
+        },
+        {
+            "persian": "دالبر",
+            "nemad": "DEALBOR"
+        },
+        {
+            "persian": "فنورد",
+            "nemad": "FENAVARD"
+        },
+        {
+            "persian": "فجام",
+            "nemad": "FJAM"
+        },
+        {
+            "persian": "غبهنوش",
+            "nemad": "GHEBEHNOOSH"
+        },
+        {
+            "persian": "غدشت",
+            "nemad": "GHEDASHT"
+        },
+        {
+            "persian": "غنوش",
+            "nemad": "GHENOOSH"
+        },
+        {
+            "persian": "شدوص",
+            "nemad": "SHDOOS"
+        },
+        {
+            "persian": "شفارا",
+            "nemad": "SHFARA"
+        },
+        {
+            "persian": "شیران",
+            "nemad": "SHIRAN"
+        },
+        {
+            "persian": "شلعاب",
+            "nemad": "SHLEAB"
+        },
+        {
+            "persian": "وپخش",
+            "nemad": "VAPAKHSH"
+        },
+        {
+            "persian": "سپاها",
+            "nemad": "CEPAHA"
+        },
+        {
+            "persian": "غگرجی",
+            "nemad": "GHEGORJI"
+        },
+        {
+            "persian": "دامین",
+            "nemad": "DEAMIN"
+        },
+        {
+            "persian": "دلقما",
+            "nemad": "DELOGHMA"
+        },
+        {
+            "persian": "غمهرا",
+            "nemad": "GHEMAHRA"
+        },
+        {
+            "persian": "مداران",
+            "nemad": "MADARAN"
+        },
+        {
+            "persian": "قزوین",
+            "nemad": "GHAZVIN"
+        },
+        {
+            "persian": "قمرو",
+            "nemad": "GHEMARV"
+        },
+        {
+            "persian": "قپیرا",
+            "nemad": "GHEPIRA"
+        },
+        {
+            "persian": "قثابت",
+            "nemad": "GHESABET"
+        },
+        {
+            "persian": "کفپارس",
+            "nemad": "KEFPARS"
+        },
+        {
+            "persian": "خبهمن",
+            "nemad": "KHBAHMAN"
+        },
+        {
+            "persian": "خوساز",
+            "nemad": "KHOSAZ"
+        },
+        {
+            "persian": "شخارک",
+            "nemad": "SHKHARK"
+        },
+        {
+            "persian": "شمواد",
+            "nemad": "SHMAVAD"
+        },
+        {
+            "persian": "ونیکی",
+            "nemad": "VANIKI"
+        },
+        {
+            "persian": "قنقش",
+            "nemad": "GHENAGHSH"
+        },
+        {
+            "persian": "قشیر",
+            "nemad": "GHESHIR"
+        },
+        {
+            "persian": "کخاک",
+            "nemad": "KEKHAK"
+        },
+        {
+            "persian": "کلوند",
+            "nemad": "KELVAND"
+        },
+        {
+            "persian": "واعتبار",
+            "nemad": "KHETEBAR"
+        },
+        {
+            "persian": "خزامیا",
+            "nemad": "KHZAMYA"
+        },
+        {
+            "persian": "وتوصا",
+            "nemad": "VATOSA"
+        },
+        {
+            "persian": "چافست",
+            "nemad": "CHAFFSET"
+        },
+        {
+            "persian": "چفیبر",
+            "nemad": "CHEFIBER"
+        },
+        {
+            "persian": "قشکر",
+            "nemad": "GHSHEKAR"
+        },
+        {
+            "persian": "کروی",
+            "nemad": "KEROOY"
+        },
+        {
+            "persian": "خاهن",
+            "nemad": "KHAHAN"
+        },
+        {
+            "persian": "نمرینو",
+            "nemad": "NEMRINO"
+        },
+        {
+            "persian": "وسدید",
+            "nemad": "VASADID"
+        },
+        {
+            "persian": "وصندوق",
+            "nemad": "VASANDOGH"
+        },
+        {
+            "persian": "بترانس",
+            "nemad": "BETERANS"
+        },
+        {
+            "persian": "سغرب",
+            "nemad": "CEGHARB"
+        },
+        {
+            "persian": "کفرا",
+            "nemad": "KEFRA"
+        },
+        {
+            "persian": "شتهران",
+            "nemad": "SHETEHRAN"
+        },
+        {
+            "persian": "وبیمه",
+            "nemad": "VABIMEH"
+        },
+        {
+            "persian": "سقاین",
+            "nemad": "CEGHAYEN"
+        },
+        {
+            "persian": "سخزر",
+            "nemad": "CEKHAZAR"
+        },
+        {
+            "persian": "شسینا",
+            "nemad": "SHSINA"
+        },
+        {
+            "persian": "فباهنر",
+            "nemad": "FEBAHONAR"
+        },
+        {
+            "persian": "فروس",
+            "nemad": "FEROS"
+        },
+        {
+            "persian": "خریخت",
+            "nemad": "KHRIKHT"
+        },
+        {
+            "persian": "کسرام",
+            "nemad": "KESERAM"
+        },
+        {
+            "persian": "پتایر",
+            "nemad": "PETIRE"
+        },
+        {
+            "persian": "شبهرن",
+            "nemad": "SHBEHRAN"
+        },
+        {
+            "persian": "کایگچ",
+            "nemad": "KEIGACH"
+        },
+        {
+            "persian": "کپارس",
+            "nemad": "KEPARS"
+        },
+        {
+            "persian": "کسعدی",
+            "nemad": "KESADI"
+        },
+        {
+            "persian": "خمحرکه",
+            "nemad": "KHMOHAREKE"
+        },
+        {
+            "persian": "شنفت",
+            "nemad": "SHNAFT"
+        },
+        {
+            "persian": "لبوتان",
+            "nemad": "LEBOTAN"
+        },
+        {
+            "persian": "سمازن",
+            "nemad": "CEMAZAN"
+        },
+        {
+            "persian": "کحافظ",
+            "nemad": "KEHAFEZ"
+        },
+        {
+            "persian": "شتولی",
+            "nemad": "SHTOOLI"
+        },
+        {
+            "persian": "تفیرو",
+            "nemad": "TEFIROO"
+        },
+        {
+            "persian": "فنوال",
+            "nemad": "FENAVAL"
+        },
+        {
+            "persian": "ختور",
+            "nemad": "KHTOUR"
+        },
+        {
+            "persian": "ختراک",
+            "nemad": "KHTRAK"
+        },
+        {
+            "persian": "کنیلو",
+            "nemad": "KENILOO"
+        },
+        {
+            "persian": "شفارس",
+            "nemad": "SHFARS"
+        },
+        {
+            "persian": "فاذر",
+            "nemad": "FAZAR"
+        },
+        {
+            "persian": "قهکمت",
+            "nemad": "GHEHEKMAT"
+        },
+        {
+            "persian": "خفنر",
+            "nemad": "KHFANAR"
+        },
+        {
+            "persian": "وساپا",
+            "nemad": "VASAPA"
+        },
+        {
+            "persian": "چکاوه",
+            "nemad": "CHEKAVEH"
+        },
+        {
+            "persian": "فاسمین",
+            "nemad": "FEASMIN"
+        },
+        {
+            "persian": "شاملا",
+            "nemad": "SHAMLA"
+        },
+        {
+            "persian": "پکرمان",
+            "nemad": "PEKERMAN"
+        },
+        {
+            "persian": "خساپا",
+            "nemad": "KHSAPA"
+        },
+        {
+            "persian": "خاور",
+            "nemad": "KHAVAR"
+        },
+        {
+            "persian": "پسهند",
+            "nemad": "PESAHAND"
+        },
+        {
+            "persian": "سصوفی",
+            "nemad": "CESOOFI"
+        },
+        {
+            "persian": "خچرخش",
+            "nemad": "KHCHARKESH"
+        },
+        {
+            "persian": "کترام",
+            "nemad": "KETRAM"
+        },
+        {
+            "persian": "فاراک",
+            "nemad": "FARAK"
+        },
+        {
+            "persian": "ومعادن",
+            "nemad": "VAMAADEN"
+        },
+        {
+            "persian": "قشهد",
+            "nemad": "GHSHAHD"
+        },
+        {
+            "persian": "کدما",
+            "nemad": "KEDAMA"
+        },
+        {
+            "persian": "غدام",
+            "nemad": "GHEDAM"
+        },
+        {
+            "persian": "نتوس",
+            "nemad": "NETOUS"
+        },
+        {
+            "persian": "غچین",
+            "nemad": "GHECHIN"
+        },
+        {
+            "persian": "خزر",
+            "nemad": "KHZAR"
+        },
+        {
+            "persian": "دفارا",
+            "nemad": "DEFARA"
+        },
+        {
+            "persian": "بشهاب",
+            "nemad": "BESHAHAB"
+        },
+        {
+            "persian": "شگل",
+            "nemad": "SHGOL"
+        },
+        {
+            "persian": "لخزر",
+            "nemad": "LEKHAZAR"
+        },
+        {
+            "persian": "وتوشه",
+            "nemad": "VATOOSHE"
+        },
+        {
+            "persian": "شپلی",
+            "nemad": "SHPOLI"
+        },
+        {
+            "persian": "تکمبا",
+            "nemad": "TECOMBA"
+        },
+        {
+            "persian": "خاذین",
+            "nemad": "KHAZIN"
+        },
+        {
+            "persian": "قلرست",
+            "nemad": "GHELOREST"
+        },
+        {
+            "persian": "شرنگی",
+            "nemad": "SHRANGI"
+        },
+        {
+            "persian": "فسپا",
+            "nemad": "FESEPA"
+        },
+        {
+            "persian": "پردیس",
+            "nemad": "PARDIS"
+        },
+        {
+            "persian": "غسالم",
+            "nemad": "GHESALEM"
+        },
+        {
+            "persian": "دزهراوی",
+            "nemad": "DEZAHRAVI"
+        },
+        {
+            "persian": "خکاوه",
+            "nemad": "KHKAVEH"
+        },
+        {
+            "persian": "فرآور",
+            "nemad": "FARAVAR"
+        },
+        {
+            "persian": "ثامان",
+            "nemad": "SAMAN"
+        },
+        {
+            "persian": "تایرا",
+            "nemad": "TIRA"
+        },
+        {
+            "persian": "تمحرکه",
+            "nemad": "TEMOHAREKE"
+        },
+        {
+            "persian": "دیران",
+            "nemad": "DEYRAN"
+        },
+        {
+            "persian": "دارو",
+            "nemad": "DAROO"
+        },
+        {
+            "persian": "فایرا",
+            "nemad": "FEIRA"
+        },
+        {
+            "persian": "زمگسا",
+            "nemad": "ZEMAGSA"
+        },
+        {
+            "persian": "دتماد",
+            "nemad": "DETMAD"
+        },
+        {
+            "persian": "دسبحا",
+            "nemad": "DESOBHA"
+        },
+        {
+            "persian": "کمنگنز",
+            "nemad": "KEMANGANEZ"
+        },
+        {
+            "persian": "خکمک",
+            "nemad": "KHKOMAK"
+        },
+        {
+            "persian": "سدور",
+            "nemad": "CEDOUR"
+        },
+        {
+            "persian": "آکنتور",
+            "nemad": "AKONTOR"
+        },
+        {
+            "persian": "وتوکا",
+            "nemad": "VATOOKA"
+        },
+        {
+            "persian": "رانفور",
+            "nemad": "REANFOR"
+        },
+        {
+            "persian": "خپارس",
+            "nemad": "KHPARS"
+        },
+        {
+            "persian": "بسویچ",
+            "nemad": "BESWITHC"
+        },
+        {
+            "persian": "سرود",
+            "nemad": "CEROOD"
+        },
+        {
+            "persian": "غشصفا",
+            "nemad": "GHESHESFA"
+        },
+        {
+            "persian": "ونفت",
+            "nemad": "VANAFT"
+        },
+        {
+            "persian": "کاذر",
+            "nemad": "KEAZAR"
+        },
+        {
+            "persian": "سهگمت",
+            "nemad": "CEHEGMAT"
+        },
+        {
+            "persian": "وکار",
+            "nemad": "VAKAR"
+        },
+        {
+            "persian": "وملی",
+            "nemad": "VAMELLI"
+        },
+        {
+            "persian": "سبهان",
+            "nemad": "CEBAHAN"
+        },
+        {
+            "persian": "بکاب",
+            "nemad": "BEKAB"
+        },
+        {
+            "persian": "سخاش",
+            "nemad": "CEKHASH"
+        },
+        {
+            "persian": "دشیمی",
+            "nemad": "DESHIMI"
+        },
+        {
+            "persian": "شپارس",
+            "nemad": "SHPARS"
+        },
+        {
+            "persian": "پاسا",
+            "nemad": "PEASA"
+        },
+        {
+            "persian": "کچاد",
+            "nemad": "KECHAD"
+        },
+        {
+            "persian": "فوکا",
+            "nemad": "FOKA"
+        },
+        {
+            "persian": "خموتور",
+            "nemad": "KHMOTOR"
+        },
+        {
+            "persian": "شکلر",
+            "nemad": "SHKOLOR"
+        },
+        {
+            "persian": "ختوقا",
+            "nemad": "KHETOGHA"
+        },
+        {
+            "persian": "وتوس",
+            "nemad": "VATOOS"
+        },
+        {
+            "persian": "سصفها",
+            "nemad": "CESFAHA"
+        },
+        {
+            "persian": "سکارون",
+            "nemad": "CEKAROON"
+        },
+        {
+            "persian": "وبوعلی",
+            "nemad": "VABOALI"
+        },
+        {
+            "persian": "سیلام",
+            "nemad": "CEILAM"
+        },
+        {
+            "persian": "بنیرو",
+            "nemad": "BENIROO"
+        },
+        {
+            "persian": "تکشا",
+            "nemad": "TECSHA"
+        },
+        {
+            "persian": "سبجنو",
+            "nemad": "CEBOJNOO"
+        },
+        {
+            "persian": "ونوین",
+            "nemad": "VANOVIN"
+        },
+        {
+            "persian": "خشرق",
+            "nemad": "KHSHARGH"
+        },
+        {
+            "persian": "ثمسکن",
+            "nemad": "SEMASKAN"
+        },
+        {
+            "persian": "ساربیل",
+            "nemad": "CEARBIL"
+        },
+        {
+            "persian": "دروز",
+            "nemad": "DEROOZ"
+        },
+        {
+            "persian": "کبافق",
+            "nemad": "KEBAFGH"
+        },
+        {
+            "persian": "خرینگ",
+            "nemad": "KHRING"
+        },
+        {
+            "persian": "حپترو",
+            "nemad": "HEPETRO"
+        },
+        {
+            "persian": "خمهر",
+            "nemad": "KHMEHR"
+        },
+        {
+            "persian": "وصنا",
+            "nemad": "VASNA"
+        },
+        {
+            "persian": "کاما",
+            "nemad": "KEAMA"
+        },
+        {
+            "persian": "کطبس",
+            "nemad": "KETABAS"
+        },
+        {
+            "persian": "ثفارس",
+            "nemad": "SEFARS"
+        },
+        {
+            "persian": "تکنو",
+            "nemad": "TECNO"
+        },
+        {
+            "persian": "وآذر",
+            "nemad": "VEAZAR"
+        },
+        {
+            "persian": "کهرام",
+            "nemad": "KEHRAM"
+        },
+        {
+            "persian": "رتکو",
+            "nemad": "RETAKO"
+        },
+        {
+            "persian": "حتوکا",
+            "nemad": "HETOOKA"
+        },
+        {
+            "persian": "کساپا",
+            "nemad": "KESAPA"
+        },
+        {
+            "persian": "کسرا",
+            "nemad": "KECERA"
+        },
+        {
+            "persian": "غشاذر",
+            "nemad": "GHESHAZAR"
+        },
+        {
+            "persian": "سهرمز",
+            "nemad": "CEHORMOZ"
+        },
+        {
+            "persian": "فجر",
+            "nemad": "FAJR"
+        },
+        {
+            "persian": "ولیز",
+            "nemad": "VALIZ"
+        },
+        {
+            "persian": "ونیرو",
+            "nemad": "VANIROO"
+        },
+        {
+            "persian": "کگل",
+            "nemad": "KEGOL"
+        },
+        {
+            "persian": "سفار",
+            "nemad": "CEFAR"
+        },
+        {
+            "persian": "بکام",
+            "nemad": "BEKAM"
+        },
+        {
+            "persian": "غالبر",
+            "nemad": "GHALBER"
+        },
+        {
+            "persian": "وپارس",
+            "nemad": "VAPARS"
+        },
+        {
+            "persian": "غاذر",
+            "nemad": "GHEAZAR"
+        },
+        {
+            "persian": "ثنوسا",
+            "nemad": "SENOSA"
+        },
+        {
+            "persian": "حتاید",
+            "nemad": "HETAYD"
+        },
+        {
+            "persian": "ثاباد",
+            "nemad": "SABAD"
+        },
+        {
+            "persian": "ثاخت",
+            "nemad": "SAKHT"
+        },
+        {
+            "persian": "ساراب",
+            "nemad": "CEARAB"
+        },
+        {
+            "persian": "وبهمن",
+            "nemad": "VABAHMAN"
+        },
+        {
+            "persian": "خپویش",
+            "nemad": "KHPOYESH"
+        },
+        {
+            "persian": "خنصیر",
+            "nemad": "KHNASIR"
+        },
+        {
+            "persian": "ولصنم",
+            "nemad": "VALESANAM"
+        },
+        {
+            "persian": "واتی",
+            "nemad": "VAATI"
+        },
+        {
+            "persian": "پلاسک",
+            "nemad": "PELASK"
+        },
+        {
+            "persian": "وتوسم",
+            "nemad": "VATOSAM"
+        },
+        {
+            "persian": "خمحور",
+            "nemad": "KHMEHVAR"
+        },
+        {
+            "persian": "کرازی",
+            "nemad": "KERAZI"
+        },
+        {
+            "persian": "فمراد",
+            "nemad": "FEMORAD"
+        },
+        {
+            "persian": "غشان",
+            "nemad": "GHESHAN"
+        },
+        {
+            "persian": "ولساپا",
+            "nemad": "VALESAPA"
+        },
+        {
+            "persian": "مرقام",
+            "nemad": "MARGHAM"
+        },
+        {
+            "persian": "ثاژن",
+            "nemad": "SAJAN"
+        },
+        {
+            "persian": "ولغدر",
+            "nemad": "VALGHADR"
+        },
+        {
+            "persian": "ثشاهد",
+            "nemad": "SESHAHED"
+        },
+        {
+            "persian": "شیراز",
+            "nemad": "SHIRAZ"
+        },
+        {
+            "persian": "خگستر",
+            "nemad": "KHGOSTAR"
+        },
+        {
+            "persian": "فملی",
+            "nemad": "FEMELI"
+        },
+        {
+            "persian": "فولاد",
+            "nemad": "FEOLAD"
+        },
+        {
+            "persian": "سدشت",
+            "nemad": "CEDASHT"
+        },
+        {
+            "persian": "فخوز",
+            "nemad": "FEKHOZ"
+        },
+        {
+            "persian": "رمپنا",
+            "nemad": "REMAPNA"
+        },
+        {
+            "persian": "وسینا",
+            "nemad": "VASINA"
+        },
+        {
+            "persian": "فخاس",
+            "nemad": "FEKHAS"
+        },
+        {
+            "persian": "سنیر",
+            "nemad": "CENEYR"
+        },
+        {
+            "persian": "وامید",
+            "nemad": "VAOMID"
+        },
+        {
+            "persian": "شفن",
+            "nemad": "SHFAN"
+        },
+        {
+            "persian": "حکشتی",
+            "nemad": "HEKESHTI"
+        },
+        {
+            "persian": "شپنا",
+            "nemad": "SHAPNA"
+        },
+        {
+            "persian": "سکرد",
+            "nemad": "CEKORD"
+        },
+        {
+            "persian": "اخابر",
+            "nemad": "AKHABER"
+        },
+        {
+            "persian": "وبملت",
+            "nemad": "VABEMELAT"
+        },
+        {
+            "persian": "وتجارت",
+            "nemad": "VATEJARAT"
+        },
+        {
+            "persian": "وبصادر",
+            "nemad": "VABESADER"
+        },
+        {
+            "persian": "حفاری",
+            "nemad": "HAFARI"
+        },
+        {
+            "persian": "کمرجان",
+            "nemad": "KEMARJAN"
+        },
+        {
+            "persian": "پکویر",
+            "nemad": "PEKAVIR"
+        },
+        {
+            "persian": "البرز",
+            "nemad": "ALBORZ"
+        },
+        {
+            "persian": "سفانو",
+            "nemad": "CEFANO"
+        },
+        {
+            "persian": "ودی",
+            "nemad": "VADEY"
+        },
+        {
+            "persian": "آسیا",
+            "nemad": "ASIA"
+        },
+        {
+            "persian": "وایران",
+            "nemad": "VAIRAN"
+        },
+        {
+            "persian": "دانا",
+            "nemad": "DANA"
+        },
+        {
+            "persian": "رتاپ",
+            "nemad": "RETAP"
+        },
+        {
+            "persian": "ثعمرا",
+            "nemad": "SEOMRA"
+        },
+        {
+            "persian": "وپست",
+            "nemad": "VAPOST"
+        },
+        {
+            "persian": "شبریز",
+            "nemad": "SHABRIZ"
+        },
+        {
+            "persian": "پارسیان",
+            "nemad": "PARSIAN"
+        },
+        {
+            "persian": "همراه",
+            "nemad": "HAMRAH"
+        },
+        {
+            "persian": "بالاس",
+            "nemad": "BALAS"
+        },
+        {
+            "persian": "دسبحان",
+            "nemad": "DESOBHAN"
+        },
+        {
+            "persian": "سبزوا",
+            "nemad": "CABZEVA"
+        },
+        {
+            "persian": "وگستر",
+            "nemad": "VAGOSTAR"
+        },
+        {
+            "persian": "فولای",
+            "nemad": "FEOLAY"
+        },
+        {
+            "persian": "خفناور",
+            "nemad": "KHFANAVAR"
+        },
+        {
+            "persian": "فولاژ",
+            "nemad": "FEOLAJH"
+        },
+        {
+            "persian": "شپدیس",
+            "nemad": "SHAPDIS"
+        },
+        {
+            "persian": "ثباغ",
+            "nemad": "SEBAGH"
+        },
+        {
+            "persian": "وخارزم",
+            "nemad": "VAKHARAZM"
+        },
+        {
+            "persian": "سمایه",
+            "nemad": "SEMAYEH"
+        },
+        {
+            "persian": "شکبیر",
+            "nemad": "SHKABIR"
+        },
+        {
+            "persian": "وشمال",
+            "nemad": "VASHOMAL"
+        },
+        {
+            "persian": "فن آوا",
+            "nemad": "FANAVA"
+        },
+        {
+            "persian": "زاگرس",
+            "nemad": "ZAGROS"
+        },
+        {
+            "persian": "دی",
+            "nemad": "DEY"
+        },
+        {
+            "persian": "آ س پ",
+            "nemad": "ASP"
+        },
+        {
+            "persian": "افرا",
+            "nemad": "AFRA"
+        },
+        {
+            "persian": "وگردش",
+            "nemad": "VAGARDESH"
+        },
+        {
+            "persian": "سمگا",
+            "nemad": "SEMEGA"
+        },
+        {
+            "persian": "وپاسار",
+            "nemad": "VAPASAR"
+        },
+        {
+            "persian": "وانصار",
+            "nemad": "VAANSAR"
+        },
+        {
+            "persian": "شلرد",
+            "nemad": "SHLORD"
+        },
+        {
+            "persian": "سیستم",
+            "nemad": "SYSTEM"
+        },
+        {
+            "persian": "وزمین",
+            "nemad": "VAZAMIN"
+        },
+        {
+            "persian": "میدکو",
+            "nemad": "MIDKO"
+        },
+        {
+            "persian": "نوین",
+            "nemad": "NOVIN"
+        },
+        {
+            "persian": "ممسنی",
+            "nemad": "MAMASANI"
+        },
+        {
+            "persian": "ثشرق",
+            "nemad": "SESHARGH"
+        },
+        {
+            "persian": "کازرو",
+            "nemad": "KAZERO"
+        },
+        {
+            "persian": "کرماشا",
+            "nemad": "KERMASHA"
+        },
+        {
+            "persian": "ما",
+            "nemad": "MA"
+        },
+        {
+            "persian": "سنوین",
+            "nemad": "SENOVIN"
+        },
+        {
+            "persian": "سجام",
+            "nemad": "CEJAM"
+        },
+        {
+            "persian": "آینده",
+            "nemad": "AYANDEH"
+        },
+        {
+            "persian": "مارون",
+            "nemad": "MAROON"
+        },
+        {
+            "persian": "حفارس",
+            "nemad": "HEFARS"
+        },
+        {
+            "persian": "پترول",
+            "nemad": "PETROL"
+        },
+        {
+            "persian": "ثتران",
+            "nemad": "SETRAN"
+        },
+        {
+            "persian": "حکمت",
+            "nemad": "HEKMAT"
+        },
+        {
+            "persian": "دهدشت",
+            "nemad": "DEHDASHT"
+        },
+        {
+            "persian": "معیار",
+            "nemad": "MEYAR"
+        },
+        {
+            "persian": "غصینو",
+            "nemad": "GHESINOO"
+        },
+        {
+            "persian": "ذوب",
+            "nemad": "ZOB"
+        },
+        {
+            "persian": "پارسان",
+            "nemad": "PARSAN"
+        },
+        {
+            "persian": "وسکاب",
+            "nemad": "VASAKAB"
+        },
+        {
+            "persian": "حرهشا",
+            "nemad": "HERAHSHA"
+        },
+        {
+            "persian": "سخواف",
+            "nemad": "CEKHAF"
+        },
+        {
+            "persian": "نیرو",
+            "nemad": "NIROO"
+        },
+        {
+            "persian": "رکیش",
+            "nemad": "REKISH"
+        },
+        {
+            "persian": "تکنار",
+            "nemad": "TAKNAR"
+        },
+        {
+            "persian": "سدبیر",
+            "nemad": "SEDABIR"
+        },
+        {
+            "persian": "کنور",
+            "nemad": "KENOOR"
+        },
+        {
+            "persian": "بپاس",
+            "nemad": "BEPAS"
+        },
+        {
+            "persian": "توریل",
+            "nemad": "TOREYL"
+        },
+        {
+            "persian": "زنجان",
+            "nemad": "ZANJAN"
+        },
+        {
+            "persian": "کالا",
+            "nemad": "KALA"
+        },
+        {
+            "persian": "میهن",
+            "nemad": "MIHAN"
+        },
+        {
+            "persian": "کشرق",
+            "nemad": "KESHARGH"
+        },
+        {
+            "persian": "کرمان",
+            "nemad": "KERMAN"
+        },
+        {
+            "persian": "تجار",
+            "nemad": "TOJAR"
+        },
+        {
+            "persian": "شبندر",
+            "nemad": "SHBANDAR"
+        },
+        {
+            "persian": "آرمان",
+            "nemad": "ARMAN"
+        },
+        {
+            "persian": "شراز",
+            "nemad": "SHRAZ"
+        },
+        {
+            "persian": "ملت",
+            "nemad": "MELAT"
+        },
+        {
+            "persian": "بساما",
+            "nemad": "BESAMA"
+        },
+        {
+            "persian": "شتران",
+            "nemad": "SHETRAN"
+        },
+        {
+            "persian": "بتک",
+            "nemad": "BETAK"
+        },
+        {
+            "persian": "وکادو",
+            "nemad": "VAKADO"
+        },
+        {
+            "persian": "واحیا",
+            "nemad": "VAEHYA"
+        },
+        {
+            "persian": "زنگان",
+            "nemad": "ZANGAN"
+        },
+        {
+            "persian": "خصدرا",
+            "nemad": "KHESADRA"
+        },
+        {
+            "persian": "فزرین",
+            "nemad": "FEZARIN"
+        },
+        {
+            "persian": "وخاور",
+            "nemad": "VAKHAVAR"
+        },
+        {
+            "persian": "بمیلا",
+            "nemad": "BEMILA"
+        },
+        {
+            "persian": "قچار",
+            "nemad": "GHECHAR"
+        },
+        {
+            "persian": "شاوان",
+            "nemad": "SHAVAN"
+        },
+        {
+            "persian": "شرانل",
+            "nemad": "SHRANOL"
+        },
+        {
+            "persian": "شپاس",
+            "nemad": "SHPAS"
+        },
+        {
+            "persian": "وآفری",
+            "nemad": "VAAFARI"
+        },
+        {
+            "persian": "پخش",
+            "nemad": "PAKHSH"
+        },
+        {
+            "persian": "تپمپس",
+            "nemad": "TEPOMPES"
+        },
+        {
+            "persian": "فارس",
+            "nemad": "FARS"
+        },
+        {
+            "persian": "خراسان",
+            "nemad": "KHORASAN"
+        },
+        {
+            "persian": "ثغرب",
+            "nemad": "SEGHARB"
+        },
+        {
+            "persian": "تاپیکو",
+            "nemad": "TAPIKO"
+        },
+        {
+            "persian": "جم",
+            "nemad": "JAM"
+        },
+        {
+            "persian": "دتولید",
+            "nemad": "DETOLID"
+        },
+        {
+            "persian": "انرژی",
+            "nemad": "ENERGY"
+        },
+        {
+            "persian": "فرابورس",
+            "nemad": "FARABOURSE"
+        },
+        {
+            "persian": "بورس",
+            "nemad": "BOURSE"
+        },
+        {
+            "persian": "اتکای",
+            "nemad": "ETEKAE"
+        },
+        {
+            "persian": "گکیش",
+            "nemad": "GEKISH"
+        },
+        {
+            "persian": "جهرم",
+            "nemad": "JAHROM"
+        },
+        {
+            "persian": "لکما",
+            "nemad": "LEKEMA"
+        },
+        {
+            "persian": "پلوله",
+            "nemad": "PELOLEH"
+        },
+        {
+            "persian": "ثنام",
+            "nemad": "SENAM"
+        },
+        {
+            "persian": "ثنظام",
+            "nemad": "SENEZAM"
+        },
+        {
+            "persian": "واحصا",
+            "nemad": "VAAHSA"
+        },
+        {
+            "persian": "وثنو",
+            "nemad": "VASANO"
+        },
+        {
+            "persian": "وقوام",
+            "nemad": "VAGHAVAM"
+        },
+        {
+            "persian": "وکوثر",
+            "nemad": "VAKOSAR"
+        },
+        {
+            "persian": "سامان",
+            "nemad": "SAAMAAN"
+        },
+        {
+            "persian": "توسعه",
+            "nemad": "TOSEEH"
+        },
+        {
+            "persian": "کقزوی",
+            "nemad": "KEGHAZVI"
+        },
+        {
+            "persian": "کصدف",
+            "nemad": "KESADAF"
+        },
+        {
+            "persian": "وسالت",
+            "nemad": "VASALAT"
+        },
+        {
+            "persian": "فلات",
+            "nemad": "FALAT"
+        },
+        {
+            "persian": "پارتا",
+            "nemad": "PEARTA"
+        },
+        {
+            "persian": "سمتاز",
+            "nemad": "CEMOTAZ"
+        },
+        {
+            "persian": "آریان",
+            "nemad": "ARIYAN"
+        },
+        {
+            "persian": "ثاصفا",
+            "nemad": "SEASFA"
+        },
+        {
+            "persian": "بایکا",
+            "nemad": "BAIKA"
+        },
+        {
+            "persian": "سایرا",
+            "nemad": "CAIRA"
+        },
+        {
+            "persian": "ساذری",
+            "nemad": "CEAZARI"
+        },
+        {
+            "persian": "کیسون",
+            "nemad": "KEISON"
+        },
+        {
+            "persian": "کایتا",
+            "nemad": "KEITA"
+        },
+        {
+            "persian": "لازما",
+            "nemad": "LEAZMA"
+        },
+        {
+            "persian": "شسم",
+            "nemad": "SHSAM"
+        },
+        {
+            "persian": "تپکو",
+            "nemad": "TEPCO"
+        },
+        {
+            "persian": "ومشان",
+            "nemad": "VAMOSHAN"
+        },
+        {
+            "persian": "فسدید",
+            "nemad": "FESADID"
+        },
+        {
+            "persian": "شزنگ",
+            "nemad": "SHZANG"
+        },
+        {
+            "persian": "وملل",
+            "nemad": "VAMELAL"
+        },
+        {
+            "persian": "قجام",
+            "nemad": "GHEJAM"
+        },
+        {
+            "persian": "شجم",
+            "nemad": "SHEJAM"
+        },
+        {
+            "persian": "سباقر",
+            "nemad": "CEBAGHER"
+        },
+        {
+            "persian": "فبیرا",
+            "nemad": "FBIRA"
+        },
+        {
+            "persian": "غشوکو",
+            "nemad": "GHESHOCO"
+        },
+        {
+            "persian": "لپیام",
+            "nemad": "LEPAYAM"
+        },
+        {
+            "persian": "شستان",
+            "nemad": "SHSTAN"
+        },
+        {
+            "persian": "ولانا",
+            "nemad": "VALANA"
+        },
+        {
+            "persian": "کوثر",
+            "nemad": "KOSAR"
+        },
+        {
+            "persian": "کابگن",
+            "nemad": "KEABGEN"
+        },
+        {
+            "persian": "وشهر",
+            "nemad": "VASHAHR"
+        },
+        {
+            "persian": "حسینا",
+            "nemad": "HESINA"
+        },
+        {
+            "persian": "شوش",
+            "nemad": "SHVASH"
+        },
+        {
+            "persian": "چبسپا",
+            "nemad": "CHEBESPA"
+        },
+        {
+            "persian": "لخانه",
+            "nemad": "LEKHANE"
+        },
+        {
+            "persian": "ثقزوی",
+            "nemad": "SEGHAZVI"
+        },
+        {
+            "persian": "فالوم",
+            "nemad": "FEALUM"
+        },
+        {
+            "persian": "غیوان",
+            "nemad": "GHEYVAN"
+        },
+        {
+            "persian": "مفاخر",
+            "nemad": "MAFAKHER"
+        },
+        {
+            "persian": "قیستو",
+            "nemad": "GHEYSTOO"
+        },
+        {
+            "persian": "ولراز",
+            "nemad": "VALERAZ"
+        },
+        {
+            "persian": "کورز",
+            "nemad": "VARIZAN"
+        },
+        {
+            "persian": "وثوق",
+            "nemad": "VASOOGH"
+        },
+        {
+            "persian": "تیپیکو",
+            "nemad": "TIPIKO"
+        },
+        {
+            "persian": "دحاوی",
+            "nemad": "DEHAVI"
+        },
+        {
+            "persian": "پلاست",
+            "nemad": "PELAST"
+        },
+        {
+            "persian": "تراک",
+            "nemad": "TERAK"
+        },
+        {
+            "persian": "سفاسی",
+            "nemad": "CEFASI"
+        },
+        {
+            "persian": "کباده",
+            "nemad": "KEBADE"
+        },
+        {
+            "persian": "پشاهن",
+            "nemad": "PESHAHEN"
+        },
+        {
+            "persian": "ثعتما",
+            "nemad": "SEETEMA"
+        },
+        {
+            "persian": "ودانا",
+            "nemad": "VADANA"
+        },
+        {
+            "persian": "ورازی",
+            "nemad": "VARAZI"
+        },
+        {
+            "persian": "وسرمد",
+            "nemad": "VASARMAD"
+        },
+        {
+            "persian": "بمپنا",
+            "nemad": "BEMAPNA"
+        },
+        {
+            "persian": "دتهران",
+            "nemad": "DETEHRAN"
+        },
+        {
+            "persian": "فسا",
+            "nemad": "FASA"
+        },
+        {
+            "persian": "سپرده",
+            "nemad": "SEPORDE"
+        },
+        {
+            "persian": "اعتلا",
+            "nemad": "ETELA"
+        },
+        {
+            "persian": "کی بی سی",
+            "nemad": "KBC"
+        },
+        {
+            "persian": "غمینو",
+            "nemad": "GHEMINOO"
+        },
+        {
+            "persian": "وآرین",
+            "nemad": "VAARIYAN"
+        },
+        {
+            "persian": "وسنا",
+            "nemad": "VASANA"
+        },
+        {
+            "persian": "ارفع",
+            "nemad": "ARFA"
+        },
+        {
+            "persian": "پاکشو",
+            "nemad": "PAKSHOO"
+        },
+        {
+            "persian": "حخزر",
+            "nemad": "HEKHAZAR"
+        },
+        {
+            "persian": "چکارم",
+            "nemad": "CHEKAREM"
+        },
+        {
+            "persian": "بهپاک",
+            "nemad": "BEHPAK"
+        },
+        {
+            "persian": "بدکو",
+            "nemad": "BEDCO"
+        },
+        {
+            "persian": "سپرمی",
+            "nemad": "CEPERMI"
+        },
+        {
+            "persian": "داراب",
+            "nemad": "DARAB"
+        },
+        {
+            "persian": "شسپا",
+            "nemad": "SHSPA"
+        },
+        {
+            "persian": "وارس",
+            "nemad": "VAARAS"
+        },
+        {
+            "persian": "تشتاد",
+            "nemad": "TESHTAD"
+        },
+        {
+            "persian": "وحافظ",
+            "nemad": "VAHAFEZ"
+        },
+        {
+            "persian": "سرچشمه",
+            "nemad": "SARCHESHME"
+        },
+        {
+            "persian": "حبندر",
+            "nemad": "HEBANDAR"
+        },
+        {
+            "persian": "ثرود",
+            "nemad": "SEROOD"
+        },
+        {
+            "persian": "چنوپا",
+            "nemad": "CHENOPA"
+        },
+        {
+            "persian": "وآتوس",
+            "nemad": "VAATOS"
+        },
+        {
+            "persian": "سفارود",
+            "nemad": "CEFAROD"
+        },
+        {
+            "persian": "فسلیر",
+            "nemad": "FSOLIR"
+        },
+        {
+            "persian": "وتعاون",
+            "nemad": "VATAOVON"
+        },
+        {
+            "persian": "فبستم",
+            "nemad": "FBASTEM"
+        },
+        {
+            "persian": "ولبهمن",
+            "nemad": "VALEBAHMAN"
+        },
+        {
+            "persian": "قاسم",
+            "nemad": "GHASEM"
+        },
+        {
+            "persian": "سیدکو",
+            "nemad": "CIDKO"
+        },
+        {
+            "persian": "دشیری",
+            "nemad": "DESHIRI"
+        },
+        {
+            "persian": "سلار",
+            "nemad": "CELAR"
+        },
+        {
+            "persian": "فافزا",
+            "nemad": "FEAFZA"
+        },
+        {
+            "persian": "دبالک",
+            "nemad": "DEBALK"
+        },
+        {
+            "persian": "کپرور",
+            "nemad": "KEPARVAR"
+        },
+        {
+            "persian": "تابا",
+            "nemad": "TABA"
+        },
+        {
+            "persian": "وسین",
+            "nemad": "VASIN"
+        },
+        {
+            "persian": "ومهر",
+            "nemad": "VAMEHR"
+        },
+        {
+            "persian": "سخوز",
+            "nemad": "CEKHOOZ"
+        },
+        {
+            "persian": "هرمز",
+            "nemad": "HORMOZ"
+        },
+        {
+            "persian": "خودکفا",
+            "nemad": "KHODKAFA"
+        },
+        {
+            "persian": "مبین",
+            "nemad": "MOBIN"
+        },
+        {
+            "persian": "وآیند",
+            "nemad": "VAAYAND"
+        },
+        {
+            "persian": "رفاه",
+            "nemad": "REFAH"
+        },
+        {
+            "persian": "شلیا",
+            "nemad": "SHELIA"
+        },
+        {
+            "persian": "تپولا",
+            "nemad": "TPOULA"
+        },
+        {
+            "persian": "ثپردیس",
+            "nemad": "SEPARDIS"
+        },
+        {
+            "persian": "غفارس",
+            "nemad": "GHEFARS"
+        },
+        {
+            "persian": "کتوکا",
+            "nemad": "KETOOKA"
+        },
+        {
+            "persian": "وثخوز",
+            "nemad": "VASAKHOZ"
+        },
+        {
+            "persian": "خدیزل",
+            "nemad": "KHDIZEL"
+        },
+        {
+            "persian": "قاروم",
+            "nemad": "GHEOROOM"
+        },
+        {
+            "persian": "ثنور",
+            "nemad": "SENOOR"
+        },
+        {
+            "persian": "کیمیا",
+            "nemad": "KIMIA"
+        },
+        {
+            "persian": "شتوکا",
+            "nemad": "SHTOOKA"
+        },
+        {
+            "persian": "اتکام",
+            "nemad": "ETEKAM"
+        },
+        {
+            "persian": "کاسپین",
+            "nemad": "KASPIAN"
+        },
+        {
+            "persian": "وسبحان",
+            "nemad": "VASOBHAN"
+        },
+        {
+            "persian": "فنرژی",
+            "nemad": "FNERGY"
+        },
+        {
+            "persian": "بفجر",
+            "nemad": "BEFAJR"
+        },
+        {
+            "persian": "فاهواز",
+            "nemad": "FEAHWAZ"
+        },
+        {
+            "persian": "وایرا",
+            "nemad": "VAIRA"
+        },
+        {
+            "persian": "دسانکو",
+            "nemad": "DESANKO"
+        },
+        {
+            "persian": "ساینا",
+            "nemad": "SAINA"
+        },
+        {
+            "persian": "کفرآور",
+            "nemad": "KEFARAVAR"
+        },
+        {
+            "persian": "دماوند",
+            "nemad": "DAMAVAND"
+        },
+        {
+            "persian": "حریل",
+            "nemad": "HEREYL"
+        },
+        {
+            "persian": "وجامی",
+            "nemad": "VAJAMI"
+        },
+        {
+            "persian": "غشهداب",
+            "nemad": "GHESHAHDAB"
+        },
+        {
+            "persian": "فجوش",
+            "nemad": "FJOOSH"
+        },
+        {
+            "persian": "گپارس",
+            "nemad": "GEPARS"
+        },
+        {
+            "persian": "چکاپا",
+            "nemad": "CHEKAPA"
+        },
+        {
+            "persian": "ثالوند",
+            "nemad": "SEALVAND"
+        },
+        {
+            "persian": "حپارسا",
+            "nemad": "HEPARSA"
+        },
+        {
+            "persian": "ثتوسا",
+            "nemad": "SETOOSA"
+        },
+        {
+            "persian": "ولملت",
+            "nemad": "VALEMELLAT"
+        },
+        {
+            "persian": "وهور",
+            "nemad": "VAHOOR"
+        },
+        {
+            "persian": "گوهران",
+            "nemad": "GOHARAN"
+        },
+        {
+            "persian": "حاریا",
+            "nemad": "HEARIA"
+        },
+        {
+            "persian": "اپرداز",
+            "nemad": "APARDAZ"
+        },
+        {
+            "persian": "تلیسه",
+            "nemad": "TALISE"
+        },
+        {
+            "persian": "زگلدشت",
+            "nemad": "ZEGOLDASHT"
+        },
+        {
+            "persian": "غگلستا",
+            "nemad": "GHEGOLESTA"
+        },
+        {
+            "persian": "بنو",
+            "nemad": "BENO"
+        },
+        {
+            "persian": "بکهنوج",
+            "nemad": "BEKAHNOJ"
+        },
+        {
+            "persian": "ساروج",
+            "nemad": "CAROOJ"
+        },
+        {
+            "persian": "آپ",
+            "nemad": "AP"
+        },
+        {
+            "persian": "غدیس",
+            "nemad": "GHEDIS"
+        },
+        {
+            "persian": "خکاشا",
+            "nemad": "KHKASHA"
+        },
+        {
+            "persian": "حسیر",
+            "nemad": "HESEYR"
+        },
+        {
+            "persian": "غگلپا",
+            "nemad": "GHEGOLPA"
+        },
+        {
+            "persian": "برکت",
+            "nemad": "BAREKAT"
+        },
+        {
+            "persian": "آبین",
+            "nemad": "ABIN"
+        },
+        {
+            "persian": "وبرق",
+            "nemad": "VABARGH"
+        },
+        {
+            "persian": "پرداخت",
+            "nemad": "PARDAKHT"
+        },
+        {
+            "persian": "دقاضی",
+            "nemad": "DEGHAZI"
+        },
+        {
+            "persian": "اوان",
+            "nemad": "AVAN"
+        },
+        {
+            "persian": "خفولا",
+            "nemad": "KHEFOOLA"
+        },
+        {
+            "persian": "گکوثر",
+            "nemad": "GEKOSAR"
+        },
+        {
+            "persian": "چدن",
+            "nemad": "CHODAN"
+        },
+        {
+            "persian": "بخاور",
+            "nemad": "BEKHAVAR"
+        },
+        {
+            "persian": "های وب",
+            "nemad": "HIWEB"
+        },
+        {
+            "persian": "ریشمک",
+            "nemad": "RISHMAK"
+        },
+        {
+            "persian": "ولشرق",
+            "nemad": "VALESHARGH"
+        },
+        {
+            "persian": "حآسا",
+            "nemad": "HEASA"
+        },
+        {
+            "persian": "غپآذر",
+            "nemad": "GHEPEAZAR"
+        },
+        {
+            "persian": "کاوه",
+            "nemad": "KAVEH"
+        },
+        {
+            "persian": "خعمرا",
+            "nemad": "KHEOMRA"
+        },
+        {
+            "persian": "امید",
+            "nemad": "OMID"
+        },
+        {
+            "persian": "ثزاگرس",
+            "nemad": "SEZAGROS"
+        },
+        {
+            "persian": "زشگزا",
+            "nemad": "ZESHAGZA"
+        },
+        {
+            "persian": "شوینده",
+            "nemad": "SHOOYANDE"
+        },
+        {
+            "persian": "وحکمت",
+            "nemad": "VAHEKMAT"
+        },
+        {
+            "persian": "شفا",
+            "nemad": "SHAFA"
+        },
+        {
+            "persian": "وپسا",
+            "nemad": "VAPSA"
+        },
+        {
+            "persian": "تبرک",
+            "nemad": "TABAROK"
+        },
+        {
+            "persian": "وآداک",
+            "nemad": "VAADAK"
+        },
+        {
+            "persian": "غویتا",
+            "nemad": "GHEVITA"
+        },
+        {
+            "persian": "سپ",
+            "nemad": "SEP"
+        },
+        {
+            "persian": "کمینا",
+            "nemad": "KEMINA"
+        },
+        {
+            "persian": "شغدیر",
+            "nemad": "SHGHADIR"
+        },
+        {
+            "persian": "زبینا",
+            "nemad": "ZEBINA"
+        },
+        {
+            "persian": "پارس",
+            "nemad": "PARS"
+        },
+        {
+            "persian": "زقیام",
+            "nemad": "ZEGHIAM"
+        },
+        {
+            "persian": "غپونه",
+            "nemad": "GHEPOUNEH"
+        },
+        {
+            "persian": "خکرمان",
+            "nemad": "KHKERMAN"
+        },
+        {
+            "persian": "نطرین",
+            "nemad": "NETRIN"
+        },
+        {
+            "persian": "تاپکیش",
+            "nemad": "TOPKISH"
+        },
+        {
+            "persian": "داوه",
+            "nemad": "DEAVE"
+        },
+        {
+            "persian": "زپارس",
+            "nemad": "ZEPARS"
+        },
+        {
+            "persian": "شبصیر",
+            "nemad": "SHBASIR"
+        },
+        {
+            "persian": "کگهر",
+            "nemad": "KEGOHAR"
+        },
+        {
+            "persian": "مادیرا",
+            "nemad": "MADIRA"
+        },
+        {
+            "persian": "زکشت",
+            "nemad": "ZEKESHT"
+        },
+        {
+            "persian": "زدشت",
+            "nemad": "ZEDASHT"
+        },
+        {
+            "persian": "لوتوس",
+            "nemad": "LOTUS"
+        },
+        {
+            "persian": "زفکا",
+            "nemad": "ZEFOKA"
+        },
+        {
+            "persian": "افق",
+            "nemad": "OFOGH"
+        },
+        {
+            "persian": "فنفت",
+            "nemad": "FENAFT"
+        },
+        {
+            "persian": "تنوین",
+            "nemad": "TNOVIN"
+        },
+        {
+            "persian": "ومعلم",
+            "nemad": "VAMOALEM"
+        },
+        {
+            "persian": "بزاگرس",
+            "nemad": "BEZAGROS"
+        },
+        {
+            "persian": "زماهان",
+            "nemad": "ZEMAHAN"
+        },
+        {
+            "persian": "تاصیکو",
+            "nemad": "TASIKO"
+        },
+        {
+            "persian": "زشریف",
+            "nemad": "ZESHARIF"
+        },
+        {
+            "persian": "دکپسول",
+            "nemad": "DEKAPSUL"
+        },
+        {
+            "persian": "جم پیلن",
+            "nemad": "JAMPILEN"
+        },
+        {
+            "persian": "سیمرغ",
+            "nemad": "SIMORGH"
+        },
+        {
+            "persian": "درهآور",
+            "nemad": "DERAHAVAR"
+        },
+        {
+            "persian": "نوری",
+            "nemad": "NOORI"
+        },
+        {
+            "persian": "هجرت",
+            "nemad": "HEJRAT"
+        },
+        {
+            "persian": "ثجوان",
+            "nemad": "SEJAVAN"
+        },
+        {
+            "persian": "فسازان",
+            "nemad": "FESAZAN"
+        },
+        {
+            "persian": "رنیک",
+            "nemad": "RENIK"
+        }
+    ]
+}
